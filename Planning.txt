@@ -1,0 +1,24 @@
+Message generator program.
+
+
+Goal of the program:
+
+Each time a user runs the program they will recieve a new random message. 
+
+
+It should make use of a few different arrays that store strings that can be randomly put into different sections of the code.
+
+It should make use of three random inspirational remarks that build upon one another in strange and funny ways. 
+
+It should take three seperate parts of a potentially inspirational statment 
+
+A start: "Never give up,"
+
+A middle: "if you never give up,"
+
+An end: "you will never know defeat."
+
+Some of these might come out as nonsensical and weird, but that simply adds to the fun randomised element of it. It might even come through as oddly inspiring.
+
+
+This should not take more than a couple of days. But I will set a deadline for 5 days. So it needs to be done by Dec 26th 2024.
