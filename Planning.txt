@@ -21,4 +21,6 @@ An end: "you will never know defeat."
 Some of these might come out as nonsensical and weird, but that simply adds to the fun randomised element of it. It might even come through as oddly inspiring.
 
 
-This should not take more than a couple of days. But I will set a deadline for 5 days. So it needs to be done by Dec 26th 2024.
+This should not take more than a couple of days. But I will set a deadline for 5 days. So it needs to be done by Dec 31st 2024.
+
+After being done I will go through the tutorial code to see how they solved it and probably save it locally next to this file to make it easy to compare.
